@@ -5,9 +5,9 @@ I am an enthusiastic IT Project Manager and U.S. Marine Veteran with 9 years of 
 
 **My Skills:** Skilled in Azure DevOps, Microsoft Project, PowerPoint, Excel, Windows, Visio, Adobe Workfront, Adobe Creative Suite, Trello, Zoho, Confluence, Dropbox, Smartsheet, Basecamp, Figma, Jira, Asana, O365, Slack, Google docs, Microsoft Office Suite, and SharePoint.
 
-**My SkillSet:** Skilled in Azure DevOps, Microsoft Project, PowerPoint, Excel, Windows, Visio, Adobe Workfront, Adobe Creative Suite, Trello, Zoho, Confluence, Dropbox, Smartsheet, Basecamp, Figma, Jira, Asana, O365, Slack, Google docs, Microsoft Office Suite, and SharePoint.
+**My Certifications:** Certified Scrum Master (CSM) CompTIA Security+ ce Certified Ethical Hacker C|EH Certification Splunk Certified Core User Certification, Python for Cybersecurity by Infosec.
 
-**My Certifications:** Certified Scrum Master (CSM) CompTIA Security+ ce Certified Ethical Hacker C|EH Certification Splunk Certified Core User Certification
+
 
 # ***Overview:***
 
