@@ -9,9 +9,9 @@ Several years of hands-on experience across diverse industries, I excel in trans
 
 **Strong knowledge of Project Management and Software Development methodology and Tools which includes: Agile, Waterfall, Scrum, Kanban, SDLC, DevOps, SaFE**
 
-**My Skills:** Skilled in Azure DevOps, Microsoft Project, PowerPoint, Excel, Windows, Visio, Adobe Workfront, Adobe Creative Suite, Trello, Zoho, Confluence, Dropbox, Smartsheet, Basecamp, Figma, Jira, Asana, O365, Slack, Google docs, Microsoft Office Suite, and SharePoint.
+**Relevant Skills:** Skilled in Azure DevOps, Microsoft Project, PowerPoint, Excel, Windows, Visio, Adobe Workfront, Adobe Creative Suite, Trello, Zoho, Confluence, Dropbox, Smartsheet, Basecamp, Figma, Jira, Asana, O365, Slack, Google docs, Microsoft Office Suite, and SharePoint.
 
-**My Certifications:** Certified Scrum Master (CSM) CompTIA Security+ ce Certified Ethical Hacker C|EH Certification Splunk Certified Core User Certification, Python for Cybersecurity by Infosec.
+**Certifications:** Certified Scrum Master (CSM) CompTIA Security+ ce Certified Ethical Hacker C|EH Certification Splunk Certified Core User Certification, Python for Cybersecurity by Infosec.
 
 
 
