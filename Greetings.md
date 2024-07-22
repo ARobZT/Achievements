@@ -1,4 +1,4 @@
-# **Table of Contents: Press Ctrl + F and search for whatever you'd like! (To view TryhackMe Rooms [Click Here](https://github.com/ARobZT/Achievements/blob/main/TryHackMe%20Completions.md))
+# **Table of Contents: Press Ctrl + F and search for whatever you'd like! (To view TryhackMe Rooms [Click Here](https://github.com/ARobZT/Achievements/blob/main/TryHackMe%20Completions.md))**
 
 # About Me: 
 I am an enthusiastic IT Project Manager and U.S. Marine Veteran with 9 years of experience in Project Management, aiming to leverage extensive expertise into a IT Project Manager role. Demonstrated ability to maintain focus and achieve results, ensuring timely, budget-conscious, and high-quality project completion. Proactive in optimizing processes, motivating teams, and navigating complexities, committed to optimal outcomes. Adaptable team player excelling in multitasking and problem-solving. 
