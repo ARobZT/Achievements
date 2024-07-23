@@ -1,4 +1,4 @@
-# Deprecated Open-Source Duolingo
+# Deprecated Open-Source Duolingo Farmer
 
 I found this script from my friend on discord as I was scripting, he told me to try to fix it solo and I gave it some time and finally got to it. Below is the difference between the working script and the deprecated version.
 
