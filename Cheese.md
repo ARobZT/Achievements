@@ -1,0 +1,6 @@
+# [Pickle Rick](https://github.com/user-attachments/assets/89c339ea-2efe-4cb5-bd7d-155a916a4eec)
+![Pickle Rick](https://github.com/user-attachments/assets/89c339ea-2efe-4cb5-bd7d-155a916a4eec)
+# [HaskHell](https://github.com/user-attachments/assets/8598b291-9a42-4e3a-a33d-16b485ca879e)
+![HaskHell](https://github.com/user-attachments/assets/8598b291-9a42-4e3a-a33d-16b485ca879e)
+# [c4ptur3-th3-fl4g](https://github.com/user-attachments/assets/41b3e429-f6c6-4f57-8aca-92aa2caec326)
+![c4ptur3-th3-fl4g](https://github.com/user-attachments/assets/5e9be6ba-2e2e-4f87-b038-ba58b6fb5b7c)
