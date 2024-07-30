@@ -1,5 +1,5 @@
 # [Pickle Rick](https://github.com/user-attachments/assets/89c339ea-2efe-4cb5-bd7d-155a916a4eec)
-**Description:** Basic Linux Commands: Navigating the filesystem, listing directories (ls), changing directories (cd), and reading files (cat, less).
+Basic Linux Commands: Navigating the filesystem, listing directories (ls), changing directories (cd), and reading files (cat, less).
 
 File Exploration: Identifying hidden files and directories with ls -la and searching for specific content within files.
 
@@ -12,7 +12,7 @@ Problem-Solving: Applying logical thinking to piece together clues and solve the
 Command-Line Proficiency: Efficiently using the command line to execute various tasks and navigate the environment.
 ![image](https://github.com/user-attachments/assets/c5295aff-e70a-492c-9332-e17bd27c63a9)
 # [HaskHell](https://github.com/user-attachments/assets/8598b291-9a42-4e3a-a33d-16b485ca879e)
-**Description:** Haskell Syntax: Understanding and writing basic Haskell code.
+Haskell Syntax: Understanding and writing basic Haskell code.
 
 Functional Programming Concepts: Grasping key concepts like immutability, first-class functions, and pure functions.
 
@@ -35,7 +35,7 @@ IO Operations: Performing input/output operations in Haskell to interact with th
 Problem-Solving: Applying Haskell programming skills to solve cybersecurity-related challenges.
 ![image](https://github.com/user-attachments/assets/15a5e6e8-edb9-4fd2-8ba0-c30fa5e77682)
 # [c4ptur3-th3-fl4g](https://github.com/user-attachments/assets/41b3e429-f6c6-4f57-8aca-92aa2caec326)
-**Description:** Reconnaissance: Gathering information about the target system using tools like nmap.
+Reconnaissance: Gathering information about the target system using tools like nmap.
 
 Enumeration: Identifying open ports, services, and potential vulnerabilities.
 
@@ -56,7 +56,7 @@ Web Application Security: Identifying and exploiting web vulnerabilities if appl
 Problem-Solving: Applying logical thinking and various techniques to overcome challenges and capture the flags.
 ![image](https://github.com/user-attachments/assets/601f813f-7abb-4f77-bc5a-e3f513932257)
 # [Internal](https://github.com/user-attachments/assets/4c7e7942-d549-492c-ac79-ed3e3d6df41a)
-**Description:** Network Scanning: Using tools like nmap to identify open ports and services on the internal network.
+Network Scanning: Using tools like nmap to identify open ports and services on the internal network.
 
 Service Enumeration: Gathering detailed information about the services running on the network.
 
@@ -81,7 +81,7 @@ Scripting and Automation: Writing scripts to automate repetitive tasks or comple
 Problem-Solving: Applying logical thinking and various techniques to progress through the room’s challenges and objectives.
 ![image](https://github.com/user-attachments/assets/08e46b0a-377e-460c-94f7-f29a30515f54)
 # [Relevant](https://github.com/user-attachments/assets/d3a56f31-8294-4290-b242-546ae850eae6)
-**Description:** Network Scanning: Utilizing tools like nmap to discover open ports and services on the target machine.
+Network Scanning: Utilizing tools like nmap to discover open ports and services on the target machine.
 
 Service Enumeration: Collecting detailed information about the identified services to find potential entry points.
 
@@ -104,7 +104,7 @@ Scripting: Writing and using scripts to automate tasks or exploits.
 Problem-Solving: Applying logical and creative thinking to overcome challenges and achieve the objectives of the room.
 ![image](https://github.com/user-attachments/assets/7230695a-c3f2-43c3-86cb-f785aa1ae58e)
 # [UltraTech](https://github.com/user-attachments/assets/981e87a2-9bdd-4b8f-9a32-7b765bccf77f)
-**Description:** Network Scanning: Using tools like nmap to identify open ports and services on the target system.
+Network Scanning: Using tools like nmap to identify open ports and services on the target system.
 
 Service Enumeration: Gathering detailed information about the running services to find potential vulnerabilities.
 
@@ -129,7 +129,7 @@ Data Exfiltration: Extracting valuable data or flags from the compromised system
 Problem-Solving: Applying logical and analytical thinking to solve the challenges presented in the room.
 ![image](https://github.com/user-attachments/assets/a7eb97c5-4a77-4f9d-bc69-01df1a84ff02)
 # [RootMe](https://github.com/user-attachments/assets/d122ce5a-21a5-46c6-ad51-8a2cacb2f00d)
-**Description:** Network Scanning: Using tools like nmap to discover open ports and services on the target system.
+Network Scanning: Using tools like nmap to discover open ports and services on the target system.
 
 Service Enumeration: Gathering information about the running services to find potential vulnerabilities.
 
@@ -152,7 +152,7 @@ Post-Exploitation: Performing actions on the compromised system to maintain acce
 Problem-Solving: Applying logical and analytical thinking to solve challenges and achieve objectives in the room.
 ![image](https://github.com/user-attachments/assets/cb888bb2-9a7d-4ebb-8a25-250839d72f39)
 # [Archangel](https://github.com/user-attachments/assets/d44548b9-e15b-4a4a-a6ed-eeb81e9d42e1)
-**Description:** Network Scanning: Identifying open ports and services with tools like nmap.
+Network Scanning: Identifying open ports and services with tools like nmap.
 
 Service Enumeration: Collecting information about the services running on the target to identify potential vulnerabilities.
 
@@ -175,7 +175,7 @@ Data Exfiltration: Extracting sensitive data or flags from the compromised syste
 Problem-Solving: Applying logical thinking and creative solutions to overcome challenges and achieve room objectives.
 ![image](https://github.com/user-attachments/assets/bae8701e-8130-49db-bc5b-76946390c5d6)
 # [Brute It](https://github.com/user-attachments/assets/847d5bec-d7b7-4af4-adfa-589a93f1808f)
-**Description:** Network Scanning: Employing tools like nmap to identify open ports and services on the target system.
+Network Scanning: Employing tools like nmap to identify open ports and services on the target system.
 
 Service Enumeration: Gathering detailed information about running services to detect potential vulnerabilities.
 
@@ -200,7 +200,7 @@ Data Exfiltration: Extracting valuable data or flags from the compromised system
 Problem-Solving: Applying advanced analytical and troubleshooting techniques to overcome challenges and achieve the objectives of the room.
 ![image](https://github.com/user-attachments/assets/8dfe617d-bd19-438d-be91-14a00cd4c73e)
 # [Anonymous](https://github.com/user-attachments/assets/e251096f-9ce7-4724-bebe-870b9d6e69fa)
-**Description:** Network Scanning: Identifying open ports and services on the target using tools like nmap.
+Network Scanning: Identifying open ports and services on the target using tools like nmap.
 
 Service Enumeration: Gathering details about the services running on the target system to find vulnerabilities.
 
@@ -223,7 +223,7 @@ Data Exfiltration: Extracting valuable information or flags from the compromised
 Problem-Solving: Applying logical and creative approaches to tackle challenges and achieve objectives in the room.
 ![image](https://github.com/user-attachments/assets/f41743ca-fa6b-43b2-9c7c-87c48c9e4467)
 # [Startup](https://github.com/user-attachments/assets/d95d5ed3-0efb-4981-b355-a8232645b1e9)
-**Description:** Network Scanning: Using tools like nmap to find open ports and services on the target machine.
+Network Scanning: Using tools like nmap to find open ports and services on the target machine.
 
 Service Enumeration: Identifying and gathering information about services running on the target.
 
@@ -246,7 +246,7 @@ Data Exfiltration: Extracting sensitive data or flags from the compromised syste
 Problem-Solving: Applying logical and analytical skills to overcome challenges and complete the room objectives.
 ![image](https://github.com/user-attachments/assets/cb003e58-343d-4eb0-8766-4a32b44e7a77)
 # [The Blob Blog](https://github.com/user-attachments/assets/df0b6b3e-ec0b-494f-8b09-fee76aa7ad8c)
-**Description:** Network Scanning: Using tools like nmap to discover open ports and services.
+Network Scanning: Using tools like nmap to discover open ports and services.
 
 Service Enumeration: Gathering detailed information about services and applications running on the target.
 
